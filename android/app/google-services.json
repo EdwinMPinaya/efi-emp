@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666515124031",
+    "firebase_url": "https://esp-32-ra-fl-default-rtdb.firebaseio.com",
+    "project_id": "esp-32-ra-fl",
+    "storage_bucket": "esp-32-ra-fl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666515124031:android:83f338817f40418952ed8a",
+        "android_client_info": {
+          "package_name": "com.mycompany.esp32ra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666515124031-731dmf8174eqkjumhoqfcamsq82d2q0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAAE3hHayX6oJV4tTQ8tNTQD6qbAj1FpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666515124031-731dmf8174eqkjumhoqfcamsq82d2q0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666515124031-a69bbttk4j3a70mmt9v0nausthr95nbs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.esp32ra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
